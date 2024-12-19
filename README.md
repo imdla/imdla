@@ -9,27 +9,33 @@
 > 💡 신뢰와 성실을 바탕으로 업무의 완성도를 높이고 꾸준한 배움을 통해 성장해 나가고 있습니다
 
 <br />
+
 > Publishing
+
 <p align="center">
-  <a href="https://skillicons.dev" display="flex">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,ps,ai" />
   </a>
 </p>
+
 > Front-end
+
 <p align="center">
-  <a href="https://skillicons.dev" display="flex">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux,jquery" />
   </a>
 </p>
->Back-end
+> Back-end
 <p align="center">
-  <a href="https://skillicons.dev" display="flex">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,mysql" />
   </a>
 </p>
+
 > Tool
+
 <p align="center">
-  <a href="https://skillicons.dev" display="flex">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,notion,figma" />
   </a>
 </p>
