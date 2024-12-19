@@ -12,7 +12,7 @@
 
 > Publishing
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,ps,ai" />
   </a>
@@ -20,13 +20,15 @@
 
 > Front-end
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux,jquery" />
   </a>
 </p>
+
 > Back-end
-<p align="center">
+
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,mysql" />
   </a>
@@ -34,7 +36,7 @@
 
 > Tool
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,notion,figma" />
   </a>
