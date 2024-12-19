@@ -10,4 +10,12 @@
 
 <br />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,js,nodejs,react,redux,jquery,py,java,mysql,vscode,git,github,notion,figma,ps,ai" />
+  </a>
+</p>
+
+<br />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imdla&show_icons=true&theme=dark)
