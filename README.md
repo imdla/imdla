@@ -10,19 +10,11 @@
 
 <br />
 
-> Publishing
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,ps,ai" />
-  </a>
-</p>
-
 > Front-end
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux,jquery" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite,redux,jquery,tailwind,bootstrap" />
   </a>
 </p>
 
@@ -30,15 +22,15 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,java,spring,mysql,docker,aws" />
   </a>
 </p>
 
-> Tool
+> Tools
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,notion,figma" />
   </a>
 </p>
 
