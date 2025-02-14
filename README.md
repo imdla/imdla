@@ -22,7 +22,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,spring,mysql,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=py,java,spring,mysql" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws,postman,notion,figma" />
   </a>
 </p>
 
