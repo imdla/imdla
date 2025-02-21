@@ -14,7 +14,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite,redux,jquery,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux,jquery,tailwind" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws,postman,notion,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,figma" />
   </a>
 </p>
 
