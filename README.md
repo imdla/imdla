@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,react,redux,jquery,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,react,redux,jquery,tailwind" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,spring,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
   </a>
 </p>
 
